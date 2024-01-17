@@ -7,7 +7,6 @@
 //
 
 #import "SVGKit.h"
-#import "CocoaLumberjack/DDOSLogger.h"
 
 @implementation SVGKit : NSObject
 
