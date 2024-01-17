@@ -11,7 +11,6 @@
 @implementation SVGKit : NSObject
 
 + (void) enableLogging {
-    [DDLog addLogger:[DDOSLogger sharedInstance]];
 }
 
 @end
